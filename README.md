@@ -6,8 +6,8 @@
 ### [포트폴리오](https://github.com/potenter11/potenter11/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4(%ED%99%A9%EC%9B%90%EC%A4%80).pdf)
 
 <!--<img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/> -->
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 <!--
 **potenter11/potenter11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
