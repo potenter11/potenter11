@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&text=WELCOME)
-# WonJun Matthew Hwang
+### Hi there 👋 I am
 
-### Hi there 👋
+# WonJun Matthew Hwang
 
 ### [포트폴리오](https://github.com/potenter11/potenter11/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4(%ED%99%A9%EC%9B%90%EC%A4%80).pdf)
 
